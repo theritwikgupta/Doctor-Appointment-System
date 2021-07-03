@@ -1,0 +1,107 @@
+@page
+{
+  size:A4;
+  margin: 0;
+layout:landscape;
+}
+#print-btn
+{
+  display: none;
+  visibility: none;
+}
+h1,h3
+{
+color: darkblue;
+}
+table {
+    font-family: Times new roman;
+    border-collapse: collapse;
+    width: 75%;
+}
+
+td, th {
+    border: 2px solid Black;
+    text-align: center;
+    padding: 8px;
+    color:black;
+
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}
+.login
+{
+display: none;
+  visibility: none;
+}
+.login-header
+{
+display: none;
+  visibility: none;
+}
+.footer
+{
+display: none;
+  visibility: none;
+}
+.header
+{
+display: none;
+  visibility: none;
+}
+.topnav-left
+{
+display: none;
+  visibility: none;
+}
+.container-fluid
+{
+display: none;
+  visibility: none;
+}
+.carousel-inner
+{
+display: none;
+  visibility: none;
+}
+.text-center p-3
+{
+display: none;
+  visibility: none;
+}
+.container p-4
+{
+display: none;
+  visibility: none;
+}
+.col-lg-6 col-md-12 mb-4 mb-md-0
+{
+display: none;
+  visibility: none;
+}
+.row
+{
+display: none;
+  visibility: none;
+}
+.bg-primary text-white text-center text-lg-left
+{
+display: none;
+  visibility: none;
+}
+.text-uppercas
+{
+display: none;
+  visibility: none;
+}
+.login
+{
+display: none;
+  visibility: none;
+}
+.carousel-item
+{
+display: none;
+  visibility: none;
+}
